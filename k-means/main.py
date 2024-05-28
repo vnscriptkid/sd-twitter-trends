@@ -57,3 +57,15 @@ plt.title('K-means Clustering of Tweets')
 plt.xlabel('Feature 1')
 plt.ylabel('Feature 2')
 plt.show()
+
+#                                              Tweet  Cluster          Topic
+# 0     The football match last night was thrilling!        3  Entertainment
+# 1            The new tech gadget is revolutionary.        2     Technology
+# 2          A major political event happened today.        3  Entertainment
+# 3     The latest movie in the series is fantastic!        0         Sports
+# 4  Health benefits of a balanced diet are immense.        4         Health
+# 5                 The basketball game was intense!        3  Entertainment
+# 6           Tech companies are innovating rapidly.        1       Politics
+# 7            Political discussions are heating up.        3  Entertainment
+# 8          New entertainment options are emerging.        2     Technology
+# 9         Health care advancements are impressive.        4         Health
